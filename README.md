@@ -17,10 +17,10 @@ Example `config.json`
 {
   "accessories": [
     {
-			"accessory": "HttpRelay",
-			"name": "Gate",
-			"duration": 1.5
-		}
+      "accessory": "HttpRelay",
+      "name": "Gate",
+      "duration": 1.5
+    }
   ]
 }
 ```
