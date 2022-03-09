@@ -2,6 +2,7 @@ var gpio = require('pi-gpio');
 var request = require('request');
 var Service, Characteristic;
 
+
 module.exports = function(homebridge) {
     Service = homebridge.hap.Service;
     Characteristic = homebridge.hap.Characteristic;
