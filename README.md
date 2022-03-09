@@ -1,4 +1,5 @@
 # homebridge-http-relay
+# random comment
 
 Triggers a relay exposed via http
 
